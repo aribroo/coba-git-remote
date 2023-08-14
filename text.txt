@@ -1,1 +1,2 @@
 halo nama saya Rifki Ari Darmawan
+test remote git dari local ke github
